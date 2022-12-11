@@ -31,11 +31,11 @@ A Mechatronics, Robotics and Automation Engineer, who is passionate about the .N
 
 #
 
-[![BaraniArr's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaraniARR&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![BaraniArr's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosmicPredator&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaraniARR&theme=tokyonight)](https://github.com/BaraniARR/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicPredator&theme=tokyonight)](https://github.com/CosmicPredator/github-readme-stats)
 
 </center>
   
