@@ -63,7 +63,7 @@ A Mechatronics, Robotics and Automation Engineer, who is passionate about the .N
 
 > - ### I use [Docker](https://www.docker.com/) to Containerize and Host my Apps.
 
-> - ### Apart from [C#](https://learn.microsoft.com/en-us/dotnet/csharp/), my other langauges are [Python](https://www.python.org/), [Lua](https://www.lua.org/), [C](https://www.w3schools.com/c/c_intro.php) and [Dart](https://dart.dev/).
+> - ### Apart from [C#](https://learn.microsoft.com/en-us/dotnet/csharp/), my other languages are [Python](https://www.python.org/), [Lua](https://www.lua.org/), [C](https://www.w3schools.com/c/c_intro.php) and [Dart](https://dart.dev/).
 
 > - ### I'm learning [ROS2](https://www.ros.org/) for my Robotics Career.
 
