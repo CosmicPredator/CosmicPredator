@@ -27,7 +27,7 @@ A Mechatronics, Robotics and Automation Engineer, who is passionate about the .N
 
 ## AniList
 
-<img width="500" alt="https://img.anili.st/User/851923" src="https://img.anili.st/User/851923"/>
+<img width="500" alt="https://anilist.co/user/CosmicPredator/" src="https://img.anili.st/User/851923"/>
 
 #
 
