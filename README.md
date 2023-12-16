@@ -1,72 +1,68 @@
-<div align="center"><h1>This is Baranikumar Srinivasan</div>
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Cosmic and I'm a software and GenAI Developer, from India.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2018.<br>📚 I'm currently learning Rust.<br>🎯 Goals: Nothing for now.<br>🎲 Fun fact: I'm working on AniMoe, an unofficial anilist client for windows.</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
 
 <div align="center">
-
-<h2>
-A Mechatronics, Robotics and Automation Engineer, who is passionate about the .NET and C# development. 
-</h2>
-
-
-# 
-
-<div align="center">
-
-<img src="https://img.shields.io/github/stars/CosmicPredator?color=g&style=for-the-badge">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/cosmic_predator?color=blue&style=for-the-badge">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/CosmicPredator?color=red&style=for-the-badge">
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="40" alt="fsharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="40" alt="julia logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="40" alt="msdos logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
 </div>
 
-# 
+###
 
-## Discord
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CosmicPredator&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CosmicPredator&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/793688107077468171)](https://discord.com/users/793688107077468171)
-
-# 
-
-## AniList
-
-<img width="500" alt="https://anilist.co/user/CosmicPredator/" src="https://img.anili.st/User/851923"/>
-
-#
-
-[![BaraniArr's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosmicPredator&show_icons=true&theme=tokyonight)](https://github.com/CosmicPredator)
-
-# 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicPredator&theme=tokyonight)](https://github.com/CosmicPredator)
-
-</center>
-  
- </div>
-
-## About Myself
-
-> - ### [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) is my primary language.
-
-> - ### I build solutions and apps in [.NET](https://dotnet.microsoft.com/en-us/) framework.
-
-> - ### I use .NET [WinUi3](https://learn.microsoft.com/en-us/windows/apps/winui/winui3/) for developing windows apps.
-
-> - ### I use .NET [Blazor WASM](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) to build web apps.
-
-> - ### I use [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) to make Web API's.
-
-> - ### I use [.NET MAUI](https://dotnet.microsoft.com/en-us/apps/maui) to build Mobile apps.
-
-> - ### I use [.NET IoT](https://dotnet.microsoft.com/en-us/apps/iot) to make IoT applications.
-
-> - ### I use [TailwindCSS](https://tailwindcss.com/) to build beautiful user interfaces.
-
-> - ### I use [Luos framework](https://www.luos.io/) to build Embedded applications.
-
-> - ### I use [Docker](https://www.docker.com/) to Containerize and Host my Apps.
-
-> - ### Apart from [C#](https://learn.microsoft.com/en-us/dotnet/csharp/), my other languages are [Python](https://www.python.org/), [Lua](https://www.lua.org/), [C](https://www.w3schools.com/c/c_intro.php) and [Dart](https://dart.dev/).
-
-> - ### I'm learning [ROS2](https://www.ros.org/) for my Robotics Career.
-
-#
-
-<div align="center"> <h2>😊 Thank You Fot Visiting my Profile 😊</h2></div>
+###
