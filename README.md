@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Cosmic and I'm a software and GenAI Developer, from India.</p>
+<p align="left">My name is Cosmic and I'm a software and Systems Engineer, from India.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018.<br>📚 I'm currently learning Rust.<br>🎯 Goals: Nothing for now.<br>🎲 Fun fact: I'm working on AniMoe, an unofficial anilist client for windows.</p>
+<p align="left">✨ Creating bugs since 2018.<br>📚 I'm currently learning Golang.<br>🎯 Goals: Nothing for now.<br>🎲 Fun fact: I'm working on AniMoe, an unofficial anilist client for windows.</p>
 
 ###
 
@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="40" alt="fsharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -55,10 +55,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="anaconda logo"  />
 </div>
 
-###
+### 
 
 <h2 align="left">My Stats</h2>
 
