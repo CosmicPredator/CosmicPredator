@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Cosmic and I'm a software and Systems Engineer, from India.</p>
+<p align="left">My name is Baranikumar Srinivasan a.k.a. Cosmic Predator and I'm a software and Systems Engineer, from India.</p>
 
 ###
 
